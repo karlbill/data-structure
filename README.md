@@ -1,35 +1,12 @@
-# Data Structure
-Some studies about Data Structures and how to implement the Collection Interface in Java.
+# Algorithms
 
-## Collection Interface
-Root-interface from where Set, Queue and List are derived.
+![image](https://user-images.githubusercontent.com/39681960/197024363-1f1a2829-18a9-4983-a97d-ec8cdc060329.png)
 
-#### Set
-Doesn't have any duplicated element
+![image](https://user-images.githubusercontent.com/39681960/197024441-b5b71c60-be81-4c8d-b8cd-5c930302c66e.png)
 
-#### List
-Ordered collection that can contain duplicated elements
+![image](https://user-images.githubusercontent.com/39681960/197024596-fae1c268-bf6d-4441-af43-a19dcf7acdd8.png)
 
-#### Queue
-First-in, First-out
+![image](https://user-images.githubusercontent.com/39681960/197024772-8ffc55a9-109b-4e6a-8258-f28c1c7acb97.png)
 
-## Vector Class
-Class from where Stack derives.
+![image](https://user-images.githubusercontent.com/39681960/197025119-6a369f8a-853c-4f6f-b09a-273cd4761770.png)
 
-#### Stack
-Last-in, First-out
-
-## Map Interface
-Key-value association, where keys are uniques.
-
-#### HashMap
-HashMap implements Map and it is not synchronous. It is possible to have null keys and null values.
-
-#### HashTable
-HashTable implements Map and it is synchronous. Null values and null keys are forbidden.
-
-### SortedMap
-This interface extends Map and keeps the keys in classified sorting.
-
-#### TreeMap
-TreeMap implements Sorted Map. The elements are storaged as trees.
