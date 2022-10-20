@@ -1,35 +1,11 @@
-# Data Structure
-Some studies about Data Structures and how to implement the Collection Interface in Java.
+# Algorithms
 
-## Collection Interface
-Root-interface from where Set, Queue and List are derived.
+![image](https://user-images.githubusercontent.com/39681960/197026239-4476e853-c99d-498b-b0b2-c07831532fe7.png)
 
-#### Set
-Doesn't have any duplicated element
+![image](https://user-images.githubusercontent.com/39681960/197026446-eaf92f1c-aec2-498e-8f4e-063b1b288636.png)
 
-#### List
-Ordered collection that can contain duplicated elements
+![image](https://user-images.githubusercontent.com/39681960/197026497-806b059c-c300-4d07-a58c-038ffc8bf0be.png)
 
-#### Queue
-First-in, First-out
+![image](https://user-images.githubusercontent.com/39681960/197026573-b8e78939-820b-40bc-aa08-88028c87ddd5.png)
 
-## Vector Class
-Class from where Stack derives.
-
-#### Stack
-Last-in, First-out
-
-## Map Interface
-Key-value association, where keys are uniques.
-
-#### HashMap
-HashMap implements Map and it is not synchronous. It is possible to have null keys and null values.
-
-#### HashTable
-HashTable implements Map and it is synchronous. Null values and null keys are forbidden.
-
-### SortedMap
-This interface extends Map and keeps the keys in classified sorting.
-
-#### TreeMap
-TreeMap implements Sorted Map. The elements are storaged as trees.
+![image](https://user-images.githubusercontent.com/39681960/197026642-c997d943-b289-4ecb-ac82-8b80c15cd82b.png)
